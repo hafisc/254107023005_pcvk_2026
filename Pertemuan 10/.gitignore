@@ -1,0 +1,12 @@
+# File hasil training D3 (dibuat ulang otomatis saat notebook dijalankan)
+dataset/
+X.pickle
+Y.pickle
+kelas.pickle
+anpr.keras
+
+# Foto KTM pribadi (tersimpan di Google Drive, tidak dipublikasikan)
+KTM/
+
+# Gambar output versi lama (tidak sesuai notebook terbaru)
+output_soal*.png
